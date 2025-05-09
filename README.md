@@ -1,5 +1,5 @@
 # PCBProject
-My first ever PCB
+My first ever PCB made in the tool called KiCad, so far it looks pretty cool to use.
 
 ![image](https://github.com/user-attachments/assets/57440620-e683-4dea-896e-3edcae30d73c)
 
